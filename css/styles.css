@@ -49,7 +49,7 @@ h1 {
   width: 140px;
   height: 140px;
   object-fit: cover;
-  /* border-radius: 50%;  Queda millor la foto quadrada, peró si cal modificar, amb aixó la tenim rodona*/
+  border-radius: 50%;  /*Queda millor la foto quadrada, peró si cal modificar, amb aixó la tenim rodona*/
   /* rodona */
   border: 3px solid #26e8e0;
   /* marc cian */
